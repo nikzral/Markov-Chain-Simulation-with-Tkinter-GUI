@@ -11,8 +11,8 @@ Progress bar integration with tqdm for a dynamic simulation experience.
 ### Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/markov-chain-simulation.git
-cd markov-chain-simulation
+git clone https://github.com/nikzral/Markov-Chain-Simulation-with-Tkinter-GUI.git
+cd Markov-Chain-Simulation-with-Tkinter-GUI
 ```
 
 ### Install Dependencies:
@@ -41,8 +41,8 @@ Tkinter: GUI library for creating the interactive interface.
 
 ## Example:
 ```
-git clone https://github.com/yourusername/markov-chain-simulation.git
-cd markov-chain-simulation
+git clone https://github.com/nikzral/Markov-Chain-Simulation-with-Tkinter-GUI.git
+cd Markov-Chain-Simulation-with-Tkinter-GUI
 pip install numpy numba tqdm
 python markov_chain_simulation.py
 ```
